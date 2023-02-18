@@ -69,6 +69,8 @@
  4. Attach the swivel locks with pan head screws and washers.
  5. Tighten the screws so that the swivel locks can be operated by hand.
 
+![](dolly-latch.png)
+
 ## Step 6 -- Top
 
  - 7.5x15.438" -- top
