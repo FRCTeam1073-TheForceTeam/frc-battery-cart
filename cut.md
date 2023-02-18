@@ -43,6 +43,7 @@
 ## Next: [Assembly Instructions](instructions.md)
 
  - [Overview](README.md)
+ - [3D Model in Onshape CAD](https://cad.onshape.com/documents/e27376a00e2bee291e4c527a/w/01df19b2e8fa2ee681f6dbda/e/62a35a5563f0918d1d084148)
  - [Shopping List](shopping.md)
  - [Cut List](cut.md)
  - [Assembly Instructions](instructions.md)
