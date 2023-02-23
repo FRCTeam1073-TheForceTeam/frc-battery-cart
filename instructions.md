@@ -11,7 +11,7 @@
 
 ## Step 2 -- Bottom assembly
 
- - Six 6.844x14.125" -- bottoms/shelvesspacers
+ - Six 6.844x14.5" -- bottoms/shelvesspacers
  - Twelve 1x6" -- battery side spacers
  - Twelve 1.5x6" -- battery spacers
 
@@ -31,7 +31,7 @@
 
 ## Step 4 -- Box back
 
- - Six 2x14.125" -- backs
+ - Six 2x14.5" -- backs
 
  1. Glue and nail backs onto the boxes
 
@@ -51,14 +51,14 @@
 
 ## Step 6 -- Hand truck mounting rails
 
- - Six 1x8.625" -- hand truck mounting blocks 
+ - Six 1x8.625" -- hand truck mounting blocks
 
  1. Space the mounting blocks apart so that they just fit between the uprights on the hand truck (11.5" in our case, but adjust as necessary.)
  2. Screw them into place using wood screws (or glue and nail them if you don't want to have the flexibility to adapt them to a different hand truck later.)
 
 ![](rails.png)
 
-## Step 5 -- Hand truck latches
+## Step 7 -- Hand truck latches
 
  - Twelve 1x2" -- Swivel locks
 
@@ -71,18 +71,18 @@
 
 ![](dolly-latch.png)
 
-## Step 6 -- Top
+## Step 8 -- Top
 
  - 7.5x15.438" -- top
 
  1. Glue and nail the top onto one of the boxes
 
-## Step 7 -- Stack the boxes
+## Step 9 -- Stack the boxes
 
  1. Stack the boxes on the hand truck (the box with the top shelf goes on the top of the stack).
  2. Lock them into place by spinning the latches on the back.
 
-## Step 8 -- Mount the chargers
+## Step 10 -- Mount the chargers
 
  1. Mount the chargers on the side.
  2. Neatly stow the cables on the shelves

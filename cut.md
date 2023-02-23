@@ -8,15 +8,16 @@
  - .5 is 1/2
  - .625 is 5/8
  - .75 is 3/4
+ - .813 is 13/16
  - .844 is 27/32 (almost 7/8)
 
 ### Plywood
 
  - Six 7.5x10" -- sides
- - Six 6.844x14.125" -- bottoms/shelves
- - One 7.5x15.438" -- top
- - Six 2x14.125" -- backs
- 
+ - Six 6.844x14.5" -- bottoms/shelves
+ - One 7.5x15.813" -- top
+ - Six 2x14.5" -- backs
+
 ![](plywood.png)
 
 ### 2x4
